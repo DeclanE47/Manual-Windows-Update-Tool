@@ -41,6 +41,14 @@ Usage
 3.  The script will then check for available Windows updates and list them.
 4.  You will be prompted to install the updates. A progress bar will display the installation status.
 
+![step1](https://github.com/user-attachments/assets/ab7969fd-4825-4f10-bfba-849f70ee32c7)
+
+![step2](https://github.com/user-attachments/assets/2c0acbed-c9f9-4a6f-92e8-811c40588ab7)
+
+![step3](https://github.com/user-attachments/assets/30579e26-92ba-4912-841d-4dc1f3ed7ca0)
+
+![step4](https://github.com/user-attachments/assets/4af77194-052e-469f-8e6d-058b86387782)
+
 License
 -------
 
