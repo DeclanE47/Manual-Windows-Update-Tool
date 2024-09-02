@@ -59,6 +59,8 @@ Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests. For issues or suggestions, please open an issue on this repository.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/emerytools)
+
 Contact
 -------
 
